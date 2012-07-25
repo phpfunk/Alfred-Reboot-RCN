@@ -1,0 +1,7 @@
+var=$(curl -sL -A 'Reboot Bot!' -w "%{http_code}" "http://pa.speedtest.rcn.net/rebootMdm.php" -o /dev/null)
+
+if [ $var = "200" ] ; then
+    echo "Your modem is rebooting, this typically takes about 60 seconds."
+else
+    echo "There was an error rebooting your modem, status code: $http"
+fi

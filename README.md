@@ -3,6 +3,10 @@ Reboot RCN Modem for Alfred
 
 A quick Alfred extension to send a signal to RCN to reboot the modem on your current network. No need to get up any longer lazy bones.
 
+## [Reboot RCN now compatible with Alfred version 2](https://github.com/phpfunk/Alfred-Reboot-RCN/tree/v2)
+
+[Read more here.](https://github.com/phpfunk/Alfred-Reboot-RCN/tree/v2)
+
 Installation
 ----------------
 

@@ -17,7 +17,7 @@ Simply type `rcn` and click `Enter`.
 
 ## Version History
 
-### 2.0.o - January 14, 2013
+### 2.0.0 - January 14, 2013
 
 * Updated workflow to be compatible with Alfred version 2
 

@@ -1,26 +1,26 @@
-Reboot RCN Modem for Alfred
-============
+# Reboot RCN Modem for Alfred
 
-A quick Alfred extension to send a signal to RCN to reboot the modem on your current network. No need to get up any longer lazy bones.
+A quick [Alfred](http://alfredapp.com) workflow to send a signal to RCN to reboot the modem on your current network. No need to get up any longer lazy bones. You will need the powerpack to run this workflow.
 
-Installation
-----------------
+## Installation
 
-Double click on the extension file or drag to Alfred app extensions window.
+Double click on the workflow file named `Reboot Modem.alfredworkflow`.
 
-How to use
-----------------
+## How to use
 
-Once installed with Alfred you can run the following commands
+Simply type `rcn` and click `Enter`.
 
-    rcn
+## Download
 
-Download
-----------------
-[Reboot RCN](https://github.com/phpfunk/Alfred-Reboot-RCN/downloads)
+[Reboot RCN](https://github.com/phpfunk/Alfred-Reboot-RCN/version/v2.zip)
 
 
-## Version History ##
-### 1.0.0 - July 24, 2012###
+## Version History
 
-- Initial Release
+### 2.0.o - January 14, 2013
+
+* Updated workflow to be compatible with Alfred version 2
+
+### 1.0.0 - July 24, 2012
+
+* Initial Release

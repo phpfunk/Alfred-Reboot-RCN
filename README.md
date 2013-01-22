@@ -17,6 +17,9 @@ Simply type `rcn` and click `Enter`.
 
 ## Version History
 
+### 2.0.1 - January 21, 2013
+* Update bundle ID
+
 ### 2.0.0 - January 14, 2013
 
 * Updated workflow to be compatible with Alfred version 2
